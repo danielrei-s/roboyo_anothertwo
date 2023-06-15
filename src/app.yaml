@@ -14,8 +14,9 @@ env_variables:
   #STORAGE_DIR: /tmp
   #CACHE_DRIVER: database
   #SESSION_DRIVER: database
+
   DB_CONNECTION: mysql
-  DB_HOST: 34.175.188.137
+  DB_HOST: roboyo-sql
   DB_PORT: 3306
   DB_DATABASE: roboyo
   DB_USERNAME: admin
