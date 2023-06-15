@@ -1,0 +1,61 @@
+{
+  "menu": [
+    {
+      "url": "/dashboard",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons bx bxs-dashboard",
+      "slug": "dashboard-main",
+      "auth_required": true
+    },
+
+    {
+      "url": "/user-management",
+      "name": "User Management",
+      "icon": "menu-icon tf-icons bx bxs-user-badge",
+      "slug": "user-management"
+    },
+
+    {
+      "url": "/client-management",
+      "name": "Client Management",
+      "icon": "menu-icon tf-icons bx bxs-business",
+      "slug": "client-management"
+    },
+
+    {
+      "url": "/",
+      "name": "Assessments",
+      "icon": "menu-icon tf-icons bx bxs-bookmark-alt",
+      "slug": "assessments"
+    },
+
+    {
+      "menuHeader": "Extras"
+    },
+
+    {
+      "url": "/",
+      "icon": "menu-icon tf-icons bx bx-file",
+      "name": "Documentation",
+      "slug": "documentation",
+      "target": "_blank"
+    },
+
+    {
+      "url": "https://github.com/danielrei-s",
+      "name": "GitHub",
+      "icon": "menu-icon tf-icons bx bxl-github",
+      "slug": "github",
+      "target": "_blank"
+    },
+
+
+    {
+      "url": "https://www.linkedin.com/in/danielrei-s/",
+      "icon": "menu-icon tf-icons bx bxl-linkedin-square",
+      "name": "LinkedIn",
+      "slug": "linkedin",
+      "target": "_blank"
+    }
+  ]
+}
